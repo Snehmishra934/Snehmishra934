@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Snehmishra934
-- 👀 I’m interested in hacking and explore new things 
+- 👋 Hi, I’m Sneh Mishra
+- 👀 I’m interested in hacking and exploring new things 
 - 🌱 I’m currently learning 12th commerce 
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me ...
